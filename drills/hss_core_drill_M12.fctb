@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "name": "hss_drill_M12",
+  "shape": "D:/tools/FreeCad/FreeCAD 0.20/Mod\\Path\\Tools\\Shape\\drill.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "Diameter": "10.2 mm",
+    "Flutes": "2",
+    "Length": "70 mm",
+    "Material": "Carbide",
+    "TipAngle": "119.00 \u00b0"
+  },
+  "attribute": {}
+}

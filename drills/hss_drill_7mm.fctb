@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "name": "hss_drill_7mm",
+  "shape": "drill.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "Diameter": "7 mm",
+    "Flutes": "2",
+    "Length": "50 mm",
+    "Material": "Carbide",
+    "TipAngle": "119.00 \u00b0"
+  },
+  "attribute": {}
+}

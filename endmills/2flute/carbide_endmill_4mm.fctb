@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "endmill_4",
+  "shape": "D:/tools/FreeCad/FreeCAD 0.20/Mod\\Path\\Tools\\Shape\\endmill.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CuttingEdgeHeight": "10.00 mm",
+    "Diameter": "4 mm",
+    "Flutes": "2",
+    "Length": "50.00 mm",
+    "Material": "Carbide",
+    "ShankDiameter": "3.0 mm",
+    "SpindleDirection": "Forward"
+  },
+  "attribute": {}
+}

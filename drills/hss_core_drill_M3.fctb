@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "name": "hss_drill_M3",
+  "shape": "D:/tools/FreeCad/FreeCAD 0.20/Mod\\Path\\Tools\\Shape\\drill.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "Diameter": "2.5 mm",
+    "Flutes": "2",
+    "Length": "34 mm",
+    "Material": "Carbide",
+    "TipAngle": "119.00 \u00b0"
+  },
+  "attribute": {}
+}

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "name": "45 Deg. Chamfer 8.3mm",
+  "shape": "chamfer.fcstd",
+  "parameter": {
+    "Chipload": "0.0 mm",
+    "CuttingEdgeAngle": "45 \u00b0",
+    "CuttingEdgeHeight": "3.5 mm",
+    "Diameter": "8.3 mm",
+    "Flutes": "3",
+    "Length": "49 mm",
+    "Material": "HSS",
+    "ShankDiameter": "6 mm",
+    "TipDiameter": "2 mm"
+  },
+  "attribute": {}
+}

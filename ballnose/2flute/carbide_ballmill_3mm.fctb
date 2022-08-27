@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "name": "6mm Ball End",
+  "shape": "ballend.fcstd",
+  "parameter": {
+    "Chipload": "0 mm",
+    "CuttingEdgeHeight": "10 mm",
+    "Diameter": "3 mm",
+    "Length": "50 mm",
+    "Material": "Carbide",
+    "ShankDiameter": "3.0 mm"
+  },
+  "attribute": {}
+}

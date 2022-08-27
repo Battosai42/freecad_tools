@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "endmill_2.5",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "Chipload": "0 mm",
+    "CuttingEdgeHeight": "27",
+    "Diameter": "2.5 mm",
+    "Flutes": "1",
+    "Length": "50 mm",
+    "Material": "Carbide",
+    "ShankDiameter": "3.0 mm",
+    "SpindleDirection": "Forward"
+  },
+  "attribute": {}
+}
